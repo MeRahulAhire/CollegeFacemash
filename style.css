@@ -93,13 +93,9 @@
 }
 .c-head{
     font-size:2em ;
-    transform: translateY(10vh);
+    transform: translateY(5vh);
 }
 
-.line-2{
-    width: 30%;
-    height: 1px;
-    background: white;
-    margin: auto;
-    margin-top: 1.5em;
+.c-head a{
+    margin: 20px;
 }
