@@ -103,4 +103,5 @@
 .c-head a{
     margin: 20px;
     color: silver;
+    outline: none;
 }
